@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [RegressionSuite]">
+  <test name="LoginTest(failed)">
+    <classes>
+      <class name="com.Circles.circlesAutomation.testScripts.TS002_NewOrderwithoutAddOn">
+        <methods>
+          <include name="newOrderWithoutAddOn"/>
+          <include name="VerifyLogin"/>
+          <include name="Setup"/>
+        </methods>
+      </class> <!-- com.Circles.circlesAutomation.testScripts.TS002_NewOrderwithoutAddOn -->
+    </classes>
+  </test> <!-- LoginTest(failed) -->
+</suite> <!-- Failed suite [RegressionSuite] -->
